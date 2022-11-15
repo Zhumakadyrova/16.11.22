@@ -1,0 +1,14 @@
+.nav-1 a{
+text-decoration: none;
+color: black;
+margin: 10px;
+}
+.nav-1 ul {
+  list-style-type: none;
+  display: flex;
+  justify-content:space-around;
+  padding: 15px;
+  background-color: rgba(127, 255, 212, 0.723);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
