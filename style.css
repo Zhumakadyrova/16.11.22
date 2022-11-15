@@ -12,3 +12,12 @@ margin: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
 }
+h2{
+  display: flex;
+  justify-content: center;
+  padding-top: 150px ;
+  background-image: url(master.jpg);
+  height: 300px;
+  width: 500px;
+  border-radius: 20%;
+}
