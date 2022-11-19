@@ -34,3 +34,20 @@ table tr td{
   margin-left: 18px;
   padding-top: 15px;
 }
+.master-3{
+  height: 200px;
+  float: left;
+  margin-right: 18px;
+  padding-top: 15px;
+}
+a{
+  display: inline-block;
+  text-decoration: none;
+  padding: 20px;
+  color: rgb(26, 112, 210);
+  background-color: aqua;
+  background-image: url(youtube.png);
+}
+a:hover{
+  box-shadow: 0 0 8px;
+}
