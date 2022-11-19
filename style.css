@@ -28,3 +28,9 @@ table tr td{
   border: 2px solid burlywood;
   border-collapse: collapse;
 }
+.master-2{
+  height: 200px;
+  float: right;
+  margin-left: 18px;
+  padding-top: 15px;
+}
